@@ -3,7 +3,7 @@
  
 Demo video: https://youtu.be/X6CwGU3QcBk
 
-# Introduction
+## Introduction
 A virtual minute repeater
 
 #### What is it and how does it work?
