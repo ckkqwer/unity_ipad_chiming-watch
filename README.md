@@ -1,5 +1,5 @@
 
-# unity_ipad_minute-repeater
+# unity_ui_minute-repeater
  
 Demo video: https://youtu.be/X6CwGU3QcBk
 
