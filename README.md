@@ -1,7 +1,7 @@
 
 # unity_ui_minute-repeater
  
-Demo video: https://youtu.be/X6CwGU3QcBk
+Demo video: https://youtu.be/GatxVSyM_SA
 
 ## Introduction
 A virtual minute repeater
